@@ -2,8 +2,10 @@
 创建初始化的ubuntu使用！
 1. VLC（播放器）
 2. Typora（markdown）
-3. shutter截图软件！附件形式
-先装xxxcommonxx.deb,然后是libxxx.amd64...deb,然后是libxxxx-perl*.deb
+3. 截图软件。apt install flameshot
+    1. 另外一种截图软件，shutter截图软件！附件形式
+      先装xxxcommonxx.deb,然后是libxxx.amd64...deb,然后是libxxxx-perl*.deb
+
 4. 顶栏流量
 indicator-sysmonitor
 - sudo add-apt-repository ppa:fossfreedom/indicator-sysmonitor  
