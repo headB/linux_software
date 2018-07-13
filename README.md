@@ -22,7 +22,7 @@ indicator-sysmonitor
 参照官方网站
 7. ubuntu的阿里云加速
 ##this is for the lazy guy,why me write by english?because I have not a Chinese Input resoure!
-- sudo sed -i "s/http:\/\/archive.ubuntu.com\/ubuntu/http:\/\/mirrors.aliyun.com\/ubuntu/g" /etc/apt/sources.list
-- sudo sed -i "s/http:\/\/security.ubuntu.com\/ubuntu/http:\/\/mirrors.aliyun.com\/ubuntu/g" /etc/apt/sources.list
-- sudo sed -i "s/http:\/\/cn.archive.ubuntu.com\/ubuntu/http:\/\/mirrors.aliyun.com\/ubuntu/g" /etc/apt/sources.list
+- sudo sed -i "s/http:\\/\\/archive.ubuntu.com\\/ubuntu/http:\\/\\/mirrors.aliyun.com\\/ubuntu/g" /etc/apt/sources.list
+- sudo sed -i "s/http:\\/\\/security.ubuntu.com\\/ubuntu/http:\\/\\/mirrors.aliyun.com\\/ubuntu/g" /etc/apt/sources.list
+- sudo sed -i "s/http:\\/\\/cn.archive.ubuntu.com\\/ubuntu/http:\\/\\/mirrors.aliyun.com\\/ubuntu/g" /etc/apt/sources.list
 8. wps
