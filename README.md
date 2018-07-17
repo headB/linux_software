@@ -26,3 +26,5 @@ indicator-sysmonitor
 - sudo sed -i "s/http:\\/\\/security.ubuntu.com\\/ubuntu/http:\\/\\/mirrors.aliyun.com\\/ubuntu/g" /etc/apt/sources.list
 - sudo sed -i "s/http:\\/\\/cn.archive.ubuntu.com\\/ubuntu/http:\\/\\/mirrors.aliyun.com\\/ubuntu/g" /etc/apt/sources.list
 8. wps
+9.配置一下ubuntu环境下对ntfs的读写。
+- sudo apt-get install ntfs-config
