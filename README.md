@@ -28,3 +28,6 @@ indicator-sysmonitor
 8. wps
 9. 配置一下ubuntu环境下对ntfs的读写。
 - sudo apt-get install ntfs-config
+10. 安装一下比较全功能的zip软件扩展
+- sudo apt-get install p7zip-full
+
